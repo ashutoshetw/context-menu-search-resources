@@ -29,7 +29,7 @@
         ]
     },
     {
-        "category": "AI Search 🤖",
+        "category": "Ask LLMs 🤖",
         "options": [
             {
                 "name": "ChatGPT",
@@ -38,10 +38,6 @@
             {
                 "name": "Gemini",
                 "url": "https://gemini.google.com/search?q=TESTSEARCH"
-            },
-            {
-                "name": "Bing AI",
-                "url": "https://www.bing.com/search?q=TESTSEARCH"
             },
             {
                 "name": "Perplexity AI",
