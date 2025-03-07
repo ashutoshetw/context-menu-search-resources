@@ -40,6 +40,10 @@
                 "url": "https://gemini.google.com/search?q=TESTSEARCH"
             },
             {
+                "name": "Claude",
+                "url": "https://claude.ai/new?q=TESTSEARCH"
+            },
+            {
                 "name": "Perplexity AI",
                 "url": "https://www.perplexity.ai/?q=TESTSEARCH"
             },
