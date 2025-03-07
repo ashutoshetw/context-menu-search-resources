@@ -1,0 +1,198 @@
+[
+    {
+        "category": "Web Search 🌐",
+        "options": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Bing",
+                "url": "https://www.bing.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "DuckDuckGo",
+                "url": "https://duckduckgo.com/?q=TESTSEARCH"
+            },
+            {
+                "name": "Ecosia",
+                "url": "https://www.ecosia.org/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Wikipedia EN",
+                "url": "https://en.wikipedia.org/wiki/Special:Search?search=TESTSEARCH"
+            },
+            {
+                "name": "Reddit.com",
+                "url": "https://www.reddit.com/search/?q=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "AI Search 🤖",
+        "options": [
+            {
+                "name": "ChatGPT",
+                "url": "https://chatgpt.com/?q=%s&hints=search"
+            },
+            {
+                "name": "Gemini",
+                "url": "https://gemini.google.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Bing AI",
+                "url": "https://www.bing.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Perplexity AI",
+                "url": "https://www.perplexity.ai/?q=%s"
+            },
+            {
+                "name": "Grok",
+                "url": "https://x.com/i/grok?text=%s"
+            },
+            {
+                "name": "Phind",
+                "url": "https://www.phind.com/search?q=%s"
+            }
+        ]
+    },
+    {
+        "category": "Image Search 🖼️",
+        "options": [
+            {
+                "name": "Google Images",
+                "url": "https://www.google.com/search?tbm=isch&q=TESTSEARCH"
+            },
+            {
+                "name": "Bing Images",
+                "url": "https://www.bing.com/images/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/explore/tags/TESTSEARCH/"
+            },
+            {
+                "name": "Pinterest",
+                "url": "https://www.pinterest.com/search/pins/?q=TESTSEARCH"
+            },
+            {
+                "name": "flickr",
+                "url": "https://www.flickr.com/search/?text=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "News 📰",
+        "options": [
+            {
+                "name": "Google News",
+                "url": "https://news.google.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Bing News",
+                "url": "https://www.bing.com/news/search?q=TESTSEARCH"
+            },
+            {
+                "name": "CNN",
+                "url": "https://www.cnn.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "BBC World",
+                "url": "https://www.bbc.co.uk/search?q=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "Social Search 📱",
+        "options": [
+            {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/search/top/?q=TESTSEARCH"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/search/results/all/?keywords=TESTSEARCH"
+            },
+            {
+                "name": "TikTok",
+                "url": "https://www.tiktok.com/search?q=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "Music & Movies 🎵🎬",
+        "options": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/results?search_query=TESTSEARCH"
+            },
+            {
+                "name": "Spotify",
+                "url": "https://open.spotify.com/search/TESTSEARCH"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Amazon Prime Video",
+                "url": "https://www.primevideo.com/search/ref=atv_nb_sr?phrase=TESTSEARCH"
+            },
+            {
+                "name": "IMDb",
+                "url": "https://www.imdb.com/find?q=TESTSEARCH"
+            },
+            {
+                "name": "Rotten Tomatoes",
+                "url": "https://www.rottentomatoes.com/search?search=TESTSEARCH"
+            },
+            {
+                "name": "Last.fm",
+                "url": "https://www.last.fm/search?q=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "Shopping 🛒",
+        "options": [
+            {
+                "name": "Amazon US",
+                "url": "https://www.amazon.com/s?k=TESTSEARCH"
+            },
+            {
+                "name": "Walmart",
+                "url": "https://www.walmart.com/search/?query=TESTSEARCH"
+            },
+            {
+                "name": "Etsy",
+                "url": "https://www.etsy.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "E-bay US",
+                "url": "https://www.ebay.com/sch/i.html?_nkw=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "Videos 📹",
+        "options": [
+            {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/results?search_query=TESTSEARCH"
+            },
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/search?q=TESTSEARCH"
+            },
+            {
+                "name": "Amazon Prime Video",
+                "url": "https://www.primevideo.com/search/ref=atv_nb_sr?phrase=TESTSEARCH"
+            }
+        ]
+    }
+] 
