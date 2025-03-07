@@ -121,16 +121,25 @@
         ]
     },
     {
-        "category": "Music & Movies 🎵🎬",
+        "category": "Music 🎵",
         "options": [
             {
-                "name": "YouTube",
-                "url": "https://www.youtube.com/results?search_query=TESTSEARCH"
+                "name": "YouTube Music",
+                "url": "https://music.youtube.com/search?q=TESTSEARCH"
             },
             {
                 "name": "Spotify",
                 "url": "https://open.spotify.com/search/TESTSEARCH"
             },
+            {
+                "name": "Last.fm",
+                "url": "https://www.last.fm/search?q=TESTSEARCH"
+            }
+        ]
+    },
+    {
+        "category": "Movies and Streaming 🎬",
+        "options": [
             {
                 "name": "Netflix",
                 "url": "https://www.netflix.com/search?q=TESTSEARCH"
@@ -140,6 +149,10 @@
                 "url": "https://www.primevideo.com/search/ref=atv_nb_sr?phrase=TESTSEARCH"
             },
             {
+                "name": "Where to stream",
+                "url": "https://www.justwatch.com/us/search?q=TESTSEARCH"
+            },
+            {
                 "name": "IMDb",
                 "url": "https://www.imdb.com/find?q=TESTSEARCH"
             },
@@ -147,10 +160,6 @@
                 "name": "Rotten Tomatoes",
                 "url": "https://www.rottentomatoes.com/search?search=TESTSEARCH"
             },
-            {
-                "name": "Last.fm",
-                "url": "https://www.last.fm/search?q=TESTSEARCH"
-            }
         ]
     },
     {
