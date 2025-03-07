@@ -33,7 +33,7 @@
         "options": [
             {
                 "name": "ChatGPT",
-                "url": "https://chatgpt.com/?q=%s&hints=search"
+                "url": "https://chatgpt.com/?q=TESTSEARCH&hints=search"
             },
             {
                 "name": "Gemini",
@@ -45,15 +45,15 @@
             },
             {
                 "name": "Perplexity AI",
-                "url": "https://www.perplexity.ai/?q=%s"
+                "url": "https://www.perplexity.ai/?q=TESTSEARCH"
             },
             {
                 "name": "Grok",
-                "url": "https://x.com/i/grok?text=%s"
+                "url": "https://x.com/i/grok?text=TESTSEARCH"
             },
             {
                 "name": "Phind",
-                "url": "https://www.phind.com/search?q=%s"
+                "url": "https://www.phind.com/search?q=TESTSEARCH"
             }
         ]
     },
