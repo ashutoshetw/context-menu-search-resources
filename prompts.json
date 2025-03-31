@@ -1,0 +1,120 @@
+[
+  {
+    "category": "General Understanding & Summarization",
+    "options": [
+      {
+        "name": "Summarize in One Sentence",
+        "text": "Summarize the following text in one sentence: TESTSEARCH"
+      },
+      {
+        "name": "Key Takeaways",
+        "text": "List the main takeaways from this text: TESTSEARCH"
+      },
+      {
+        "name": "Bullet Point Summary",
+        "text": "Summarize the following text into concise bullet points: TESTSEARCH"
+      }
+    ]
+  },
+  {
+    "category": "Simplification & Explanation",
+    "options": [
+      {
+        "name": "Explain Like I'm 5",
+        "text": "Explain this concept in simple terms: TESTSEARCH"
+      },
+      {
+        "name": "Give a One-Line Explanation",
+        "text": "Provide a one-sentence explanation for: TESTSEARCH"
+      },
+      {
+        "name": "Use an Analogy",
+        "text": "Explain the following using an analogy: TESTSEARCH"
+      },
+      {
+        "name": "Compare with a Real-World Example",
+        "text": "Compare this concept with a real-world example: TESTSEARCH"
+      }
+    ]
+  },
+  {
+    "category": "Translation & Language Tweaks",
+    "options": [
+      {
+        "name": "Translate to Spanish",
+        "text": "Translate the following text to Spanish: TESTSEARCH"
+      },
+      {
+        "name": "Rephrase for Formal Writing",
+        "text": "Rewrite this text in a more formal tone: TESTSEARCH"
+      },
+      {
+        "name": "Make It Casual",
+        "text": "Rewrite this text in a more conversational, casual style: TESTSEARCH"
+      }
+    ]
+  },
+  {
+    "category": "Text Transformation & Creativity",
+    "options": [
+      {
+        "name": "Turn Into a Poem",
+        "text": "Rewrite the following text as a short poem: TESTSEARCH"
+      },
+      {
+        "name": "Make It a Tweet",
+        "text": "Convert this text into a short and engaging tweet: TESTSEARCH"
+      },
+      {
+        "name": "Convert to Passive Voice",
+        "text": "Rewrite this sentence in passive voice: TESTSEARCH"
+      },
+      {
+        "name": "Turn Into a Short Story",
+        "text": "Expand this idea into a brief story: TESTSEARCH"
+      }
+    ]
+  },
+  {
+    "category": "Critical Thinking & Insights",
+    "options": [
+      {
+        "name": "Find Hidden Assumptions",
+        "text": "What are the hidden assumptions in this text? TESTSEARCH"
+      },
+      {
+        "name": "Find Logical Fallacies",
+        "text": "Identify any logical fallacies in the following argument: TESTSEARCH"
+      },
+      {
+        "name": "Argue Against This",
+        "text": "Provide a counterargument to this statement: TESTSEARCH"
+      },
+      {
+        "name": "What’s the Main Idea?",
+        "text": "Identify the core idea in this text: TESTSEARCH"
+      }
+    ]
+  },
+  {
+    "category": "Coding & Technical Uses",
+    "options": [
+      {
+        "name": "Explain This Code",
+        "text": "Explain what this code does: TESTSEARCH"
+      },
+      {
+        "name": "Optimize This Code",
+        "text": "Suggest optimizations for this code snippet: TESTSEARCH"
+      },
+      {
+        "name": "Convert to Python",
+        "text": "Convert the following code into Python: TESTSEARCH"
+      },
+      {
+        "name": "Find Bugs in This Code",
+        "text": "Identify any potential bugs in this code: TESTSEARCH"
+      }
+    ]
+  }
+]
