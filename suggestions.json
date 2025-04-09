@@ -29,35 +29,6 @@
         ]
     },
     {
-        "category": "Ask LLMs 🤖",
-        "options": [
-            {
-                "name": "ChatGPT",
-                "url": "https://chatgpt.com/?q=TESTSEARCH&hints=search"
-            },
-            {
-                "name": "Gemini",
-                "url": "https://gemini.google.com/search?q=TESTSEARCH"
-            },
-            {
-                "name": "Claude",
-                "url": "https://claude.ai/new?q=TESTSEARCH"
-            },
-            {
-                "name": "Perplexity AI",
-                "url": "https://www.perplexity.ai/?q=TESTSEARCH"
-            },
-            {
-                "name": "Grok",
-                "url": "https://x.com/i/grok?text=TESTSEARCH"
-            },
-            {
-                "name": "Phind",
-                "url": "https://www.phind.com/search?q=TESTSEARCH"
-            }
-        ]
-    },
-    {
         "category": "Image Search 🖼️",
         "options": [
             {
